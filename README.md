@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Calc app
 
 ## Run the app
@@ -67,3 +68,7 @@ flet build web -v
 ```
 
 For more details on building Web app, refer to the [Web Packaging Guide](https://docs.flet.dev/publish/web/).
+=======
+# flet-finance-app
+mobile application using flet library
+>>>>>>> 1d0ff673f3abbbfb2e19db656394376a4b3791bd
